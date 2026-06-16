@@ -2,6 +2,8 @@
 
 ![The Double Crime poster](PosterV4.jpg)
 
+*Poster designed in Adobe Photoshop. The real double crime was how many times I nudged those masks by one pixel.*
+
 A Unity narrative adventure game set on a ship, featuring Ink-powered branching dialogue, NPC interactions, and a save system.
 
 ## Overview
