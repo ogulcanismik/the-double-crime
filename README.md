@@ -1,5 +1,7 @@
 # The Double Crime
 
+![The Double Crime poster](PosterV4.jpg)
+
 A Unity narrative adventure game set on a ship, featuring Ink-powered branching dialogue, NPC interactions, and a save system.
 
 ## Overview
@@ -33,7 +35,7 @@ The `Ink/Stories/` folder contains branching dialogue for six characters (Ada, A
 
 ## Repository Note
 
-This repo contains **source code and Ink dialogue scripts only** for portfolio purposes. Art assets, audio, third-party plugins (Ink runtime, ESave), and compiled `.json` story files are not included.
+This repo contains **source code, Ink dialogue scripts, and the project poster** for portfolio purposes. Other art assets, audio, third-party plugins (Ink runtime, ESave), and compiled `.json` story files are not included.
 
 ## Author
 
