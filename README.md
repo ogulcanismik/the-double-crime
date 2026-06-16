@@ -2,13 +2,13 @@
 
 ![The Double Crime poster](PosterV4.jpg)
 
-*Poster designed in Adobe Photoshop. The real double crime was how many times I nudged those masks by one pixel.*
+*Poster designed in Adobe Photoshop by me. Even if you don't care, I wanted to mention.*
 
 A Unity narrative adventure game set on a ship, featuring Ink-powered branching dialogue, NPC interactions, and a save system.
 
 ## Overview
 
-Walk around the ship in third person, discover NPCs, and engage in branching conversations driven by Ink scripts. Dialogue choices can affect NPC opinions and discovery state. Includes a ledger UI, pause menu, scene teleporters, and persistent save/load via a custom save interface.
+Walk around the ship in third person, discover NPCs, and engage in branching conversations driven by Ink scripts. Dialogue choices can affect NPC opinions and states. Includes a ledger UI, pause menu, scene teleporters, and persistent save/load via a custom save interface.
 
 ## Tech Stack
 
@@ -41,4 +41,4 @@ This repo contains **source code, Ink dialogue scripts, and the project poster**
 
 ## Author
 
-Ogulcan Ismik
+Oğulcan Ismık
